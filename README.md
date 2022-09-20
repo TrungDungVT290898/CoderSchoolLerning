@@ -1,7 +1,5 @@
-# Intro to Github and Netlify
-A Learning project @CoderSchool.vn 
-## Student:Nguyễn Trung Dũng
-## Features:
-1. Create Github repo
-2. Add project's README using Markdown
-3. Deploy to Netlify
+# Descriptions
+
+This project is just my first front-end project. Including my information and will contains more and more in the future.
+
+#Thanks for visiting :)))))))
